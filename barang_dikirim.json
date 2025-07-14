@@ -219,8 +219,8 @@
       "jarak_total_km": 60.11,
       "estimasi_waktu_menit": 90.165,
       "tanggal_pengiriman": "2025-06-19 08:27",
-      "status": "dalam_pengiriman",
-      "dikirim": false,
+      "status": "selesai",
+      "dikirim": true,
       "kurir": {
         "id_kurir": 18,
         "nama_kurir": "Surya",
@@ -239,6 +239,37 @@
       "jarak_total_km": 6.01,
       "estimasi_waktu_menit": 9.015,
       "tanggal_pengiriman": "2025-06-19 08:28",
+      "status": "selesai",
+      "dikirim": true,
+      "kurir": {
+        "id_kurir": 17,
+        "nama_kurir": "Rian",
+        "type_kendaraan": "mobil",
+        "kapasitas_kg": 200.0,
+        "status_kurir": "aktif"
+      }
+    },
+    {
+      "id_paket": "0013",
+      "items": [
+        "Rambipuji, Rambipuji",
+        "Karangrejo, Gumukmas",
+        "Candijati, Gumukmas",
+        "Sempusari, Kaliwates",
+        "Karangtengah, Mumbulsari",
+        "Sepanjang, Mumbulsari",
+        "Mumbulsari, Mayang",
+        "Jember Lor, Jember",
+        "Kaliwates, Jember",
+        "Kepatihan, Jember",
+        "Puger, Puger",
+        "Kembiritan, Puger",
+        "Sumberjambe, Sumberjambe",
+        "Gugut, Sumberjambe"
+      ],
+      "jarak_total_km": 119.9,
+      "estimasi_waktu_menit": 179.85,
+      "tanggal_pengiriman": "2025-07-14 17:19",
       "status": "dalam_pengiriman",
       "dikirim": false,
       "kurir": {
