@@ -1,0 +1,328 @@
+{
+  "produk": [
+    {
+      "id": 21,
+      "nama_produk": "Mouse Gaming Wireless",
+      "berat": "0.1",
+      "alamat_pengiriman": "Desa Jenggawah, Kecamatan Jenggawah"
+    },
+    {
+      "id": 22,
+      "nama_produk": "Headset Gaming",
+      "berat": "0.3",
+      "alamat_pengiriman": "Desa Jelbuk, Kecamatan Jelbuk"
+    },
+    {
+      "id": 23,
+      "nama_produk": "Speaker Bluetooth",
+      "berat": "0.8",
+      "alamat_pengiriman": "Desa Kalisat, Kecamatan Kalisat"
+    },
+    {
+      "id": 24,
+      "nama_produk": "Powerbank 20000mAh",
+      "berat": "0.4",
+      "alamat_pengiriman": "Desa Ledokombo, Kecamatan Ledokombo"
+    },
+    {
+      "id": 25,
+      "nama_produk": "Charger Fast Charging",
+      "berat": "0.2",
+      "alamat_pengiriman": "Desa Silo, Kecamatan Silo"
+    },
+    {
+      "id": 27,
+      "nama_produk": "Lensa Telephoto 70-200mm",
+      "berat": "1.5",
+      "alamat_pengiriman": "Desa Pakusari, Kecamatan Pakusari"
+    },
+    {
+      "id": 29,
+      "nama_produk": "Drone DJI Mini",
+      "berat": "0.5",
+      "alamat_pengiriman": "Desa Kaliwates, Kecamatan Kaliwates"
+    },
+    {
+      "id": 30,
+      "nama_produk": "Action Camera GoPro",
+      "berat": "0.3",
+      "alamat_pengiriman": "Desa Sumbersari, Kecamatan Sumbersari"
+    },
+    {
+      "id": 36,
+      "nama_produk": "Tas Ransel Outdoor",
+      "berat": "0.8",
+      "alamat_pengiriman": "Desa Kencong, Kecamatan Kencong"
+    },
+    {
+      "id": 39,
+      "nama_produk": "Kompor Portable Gas",
+      "berat": "0.6",
+      "alamat_pengiriman": "Desa Bangsalsari, Kecamatan Bangsalsari"
+    },
+    {
+      "id": 40,
+      "nama_produk": "Senter LED Rechargeable",
+      "berat": "0.3",
+      "alamat_pengiriman": "Desa Panti, Kecamatan Panti"
+    },
+    {
+      "id": 41,
+      "nama_produk": "Jam Tangan Smartwatch",
+      "berat": "0.1",
+      "alamat_pengiriman": "Desa Sukorambi, Kecamatan Sukorambi"
+    },
+    {
+      "id": 42,
+      "nama_produk": "Gelang Fitness Tracker",
+      "berat": "0.05",
+      "alamat_pengiriman": "Desa Ajung, Kecamatan Ajung"
+    },
+    {
+      "id": 43,
+      "nama_produk": "Earbuds TWS Wireless",
+      "berat": "0.1",
+      "alamat_pengiriman": "Desa Rambipuji, Kecamatan Rambipuji"
+    },
+    {
+      "id": 46,
+      "nama_produk": "Resistance Band Set",
+      "berat": "0.5",
+      "alamat_pengiriman": "Desa Mumbulsari, Kecamatan Mumbulsari"
+    },
+    {
+      "id": 49,
+      "nama_produk": "Bola Sepak Nike Size 5",
+      "berat": "0.4",
+      "alamat_pengiriman": "Desa Kalisat, Kecamatan Kalisat"
+    },
+    {
+      "id": 50,
+      "nama_produk": "Raket Badminton Yonex",
+      "berat": "0.3",
+      "alamat_pengiriman": "Desa Ledokombo, Kecamatan Ledokombo"
+    },
+    {
+      "id": 51,
+      "nama_produk": "Shuttlecock Plastik",
+      "berat": "0.1",
+      "alamat_pengiriman": "Desa Silo, Kecamatan Silo"
+    },
+    {
+      "id": 52,
+      "nama_produk": "Baju Kaos Olahraga",
+      "berat": "0.2",
+      "alamat_pengiriman": "Desa Arjasa, Kecamatan Arjasa"
+    },
+    {
+      "id": 53,
+      "nama_produk": "Celana Training Panjang",
+      "berat": "0.3",
+      "alamat_pengiriman": "Desa Pakusari, Kecamatan Pakusari"
+    },
+    {
+      "id": 54,
+      "nama_produk": "Sepatu Lari Nike",
+      "berat": "0.8",
+      "alamat_pengiriman": "Desa Jember Lor, Kecamatan Jember"
+    },
+    {
+      "id": 55,
+      "nama_produk": "Kaos Kaki Sport",
+      "berat": "0.1",
+      "alamat_pengiriman": "Desa Kaliwates, Kecamatan Kaliwates"
+    },
+    {
+      "id": 56,
+      "nama_produk": "Topi Baseball Cap",
+      "berat": "0.2",
+      "alamat_pengiriman": "Desa Sumbersari, Kecamatan Sumbersari"
+    },
+    {
+      "id": 57,
+      "nama_produk": "Botol Minum Stainless",
+      "berat": "0.4",
+      "alamat_pengiriman": "Desa Patrang, Kecamatan Patrang"
+    },
+    {
+      "id": 58,
+      "nama_produk": "Handuk Olahraga Microfiber",
+      "berat": "0.3",
+      "alamat_pengiriman": "Desa Ambulu, Kecamatan Ambulu"
+    },
+    {
+      "id": 60,
+      "nama_produk": "Vitamin C 1000mg",
+      "berat": "0.3",
+      "alamat_pengiriman": "Desa Balung, Kecamatan Balung"
+    },
+    {
+      "id": 61,
+      "nama_produk": "Minyak Ikan Omega 3",
+      "berat": "0.4",
+      "alamat_pengiriman": "Desa Puger, Kecamatan Puger"
+    },
+    {
+      "id": 62,
+      "nama_produk": "Multivitamin Dewasa",
+      "berat": "0.2",
+      "alamat_pengiriman": "Desa Kencong, Kecamatan Kencong"
+    },
+    {
+      "id": 63,
+      "nama_produk": "Shampo Anti Ketombe",
+      "berat": "0.4",
+      "alamat_pengiriman": "Desa Gumukmas, Kecamatan Gumukmas"
+    },
+    {
+      "id": 64,
+      "nama_produk": "Sabun Mandi Cair",
+      "berat": "0.5",
+      "alamat_pengiriman": "Desa Tanggul, Kecamatan Tanggul"
+    },
+    {
+      "id": 66,
+      "nama_produk": "Sikat Gigi Elektrik",
+      "berat": "0.3",
+      "alamat_pengiriman": "Desa Panti, Kecamatan Panti"
+    },
+    {
+      "id": 67,
+      "nama_produk": "Parfum Pria EDT",
+      "berat": "0.3",
+      "alamat_pengiriman": "Desa Sukorambi, Kecamatan Sukorambi"
+    },
+    {
+      "id": 68,
+      "nama_produk": "Deodorant Anti Perspirant",
+      "berat": "0.2",
+      "alamat_pengiriman": "Desa Ajung, Kecamatan Ajung"
+    },
+    {
+      "id": 69,
+      "nama_produk": "Lotion Pelembab Kulit",
+      "berat": "0.4",
+      "alamat_pengiriman": "Desa Rambipuji, Kecamatan Rambipuji"
+    },
+    {
+      "id": 70,
+      "nama_produk": "Sunscreen SPF 50",
+      "berat": "0.1",
+      "alamat_pengiriman": "Desa Tempurejo, Kecamatan Tempurejo"
+    },
+    {
+      "id": 71,
+      "nama_produk": "Masker Wajah Clay",
+      "berat": "0.2",
+      "alamat_pengiriman": "Desa Mayang, Kecamatan Mayang"
+    },
+    {
+      "id": 72,
+      "nama_produk": "Serum Vitamin C",
+      "berat": "0.1",
+      "alamat_pengiriman": "Desa Mumbulsari, Kecamatan Mumbulsari"
+    },
+    {
+      "id": 73,
+      "nama_produk": "Foundation Liquid",
+      "berat": "0.1",
+      "alamat_pengiriman": "Desa Jenggawah, Kecamatan Jenggawah"
+    },
+    {
+      "id": 74,
+      "nama_produk": "Lipstik Matte Long Lasting",
+      "berat": "0.05",
+      "alamat_pengiriman": "Desa Jelbuk, Kecamatan Jelbuk"
+    },
+    {
+      "id": 75,
+      "nama_produk": "Eyeshadow Palette",
+      "berat": "0.2",
+      "alamat_pengiriman": "Desa Kalisat, Kecamatan Kalisat"
+    },
+    {
+      "id": 78,
+      "nama_produk": "Gula Pasir 1kg",
+      "berat": "1.0",
+      "alamat_pengiriman": "Desa Arjasa, Kecamatan Arjasa"
+    },
+    {
+      "id": 79,
+      "nama_produk": "Garam Dapur Beryodium",
+      "berat": "0.5",
+      "alamat_pengiriman": "Desa Pakusari, Kecamatan Pakusari"
+    },
+    {
+      "id": 81,
+      "nama_produk": "Telur Ayam 1kg",
+      "berat": "1.0",
+      "alamat_pengiriman": "Desa Kaliwates, Kecamatan Kaliwates"
+    },
+    {
+      "id": 83,
+      "nama_produk": "Mentega Butter 200g",
+      "berat": "0.2",
+      "alamat_pengiriman": "Desa Patrang, Kecamatan Patrang"
+    },
+    {
+      "id": 84,
+      "nama_produk": "Keju Cheddar Slice",
+      "berat": "0.3",
+      "alamat_pengiriman": "Desa Ambulu, Kecamatan Ambulu"
+    },
+    {
+      "id": 85,
+      "nama_produk": "Daging Sapi Segar 1kg",
+      "berat": "1.0",
+      "alamat_pengiriman": "Desa Wuluhan, Kecamatan Wuluhan"
+    },
+    {
+      "id": 87,
+      "nama_produk": "Ikan Lele Segar 1kg",
+      "berat": "1.0",
+      "alamat_pengiriman": "Desa Puger, Kecamatan Puger"
+    },
+    {
+      "id": 88,
+      "nama_produk": "Sayur Kangkung Segar",
+      "berat": "0.5",
+      "alamat_pengiriman": "Desa Kencong, Kecamatan Kencong"
+    },
+    {
+      "id": 89,
+      "nama_produk": "Tomat Segar 1kg",
+      "berat": "1.0",
+      "alamat_pengiriman": "Desa Gumukmas, Kecamatan Gumukmas"
+    },
+    {
+      "id": 91,
+      "nama_produk": "Cabai Merah 500g",
+      "berat": "0.5",
+      "alamat_pengiriman": "Desa Bangsalsari, Kecamatan Bangsalsari"
+    },
+    {
+      "id": 92,
+      "nama_produk": "Jahe Segar 500g",
+      "berat": "0.5",
+      "alamat_pengiriman": "Desa Panti, Kecamatan Panti"
+    },
+    {
+      "id": 93,
+      "nama_produk": "Kunyit Bubuk 100g",
+      "berat": "0.1",
+      "alamat_pengiriman": "Desa Sukorambi, Kecamatan Sukorambi"
+    },
+    {
+      "id": 94,
+      "nama_produk": "Kemiri 250g",
+      "berat": "0.25",
+      "alamat_pengiriman": "Desa Ajung, Kecamatan Ajung"
+    },
+    {
+      "id": 95,
+      "nama_produk": "Kecap Manis 600ml",
+      "berat": "0.6",
+      "alamat_pengiriman": "Desa Rambipuji, Kecamatan Rambipuji"
+    }
+  ]
+}

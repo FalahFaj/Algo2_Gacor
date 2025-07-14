@@ -1,0 +1,253 @@
+{
+  "paket": [
+    {
+      "id_paket": "0006",
+      "items": [
+        "Kencong, Kencong",
+        "Wonojati, Kencong"
+      ],
+      "jarak_total_km": 1.83,
+      "estimasi_waktu_menit": 2.745,
+      "tanggal_pengiriman": "2025-06-11 01:45",
+      "status": "dalam_pengiriman",
+      "dikirim": true,
+      "kurir": {
+        "id_kurir": 1,
+        "nama_kurir": "amin",
+        "type_kendaraan": "motor",
+        "kapasitas_kg": 200.0,
+        "status_kurir": "aktif"
+      }
+    },
+    {
+      "id_paket": "0003",
+      "items": [
+        "Kencong, Kencong",
+        "Wonojati, Kencong"
+      ],
+      "jarak_total_km": 1.83,
+      "estimasi_waktu_menit": 2.745,
+      "tanggal_pengiriman": "2025-06-11 02:44",
+      "status": "selesai",
+      "dikirim": true,
+      "kurir": {
+        "id_kurir": 30,
+        "nama_kurir": "Ronald",
+        "type_kendaraan": "mobil",
+        "kapasitas_kg": 200.0,
+        "status_kurir": "aktif"
+      }
+    },
+    {
+      "id_paket": "0016",
+      "items": [
+        "Kencong, Kencong",
+        "Wonojati, Kencong"
+      ],
+      "jarak_total_km": 1.83,
+      "estimasi_waktu_menit": 2.745,
+      "tanggal_pengiriman": "2025-06-19 01:21",
+      "status": "selesai",
+      "dikirim": true,
+      "kurir": {
+        "id_kurir": 3,
+        "nama_kurir": "Sefa",
+        "type_kendaraan": "motor",
+        "kapasitas_kg": 60.0,
+        "status_kurir": "aktif"
+      }
+    },
+    {
+      "id_paket": "0017",
+      "items": [
+        "Kencong, Kencong",
+        "Wonojati, Kencong",
+        "Cakru, Kencong"
+      ],
+      "jarak_total_km": 4.68,
+      "estimasi_waktu_menit": 7.02,
+      "tanggal_pengiriman": "2025-06-19 01:22",
+      "status": "selesai",
+      "dikirim": true,
+      "kurir": {
+        "id_kurir": 7,
+        "nama_kurir": "Rina",
+        "type_kendaraan": "motor",
+        "kapasitas_kg": 60.0,
+        "status_kurir": "aktif"
+      }
+    },
+    {
+      "id_paket": "0018",
+      "items": [
+        "Rambipuji, Rambipuji",
+        "Kencong, Kencong",
+        "Wonojati, Kencong",
+        "Cakru, Kencong",
+        "Paseban, Kencong",
+        "Gumukmas, Gumukmas",
+        "Candijati, Gumukmas"
+      ],
+      "jarak_total_km": 66.72,
+      "estimasi_waktu_menit": 100.08,
+      "tanggal_pengiriman": "2025-06-19 01:48",
+      "status": "selesai",
+      "dikirim": true,
+      "kurir": {
+        "id_kurir": 2,
+        "nama_kurir": "Suroso",
+        "type_kendaraan": "mobil",
+        "kapasitas_kg": 200.0,
+        "status_kurir": "aktif"
+      }
+    },
+    {
+      "id_paket": "0019",
+      "items": [
+        "Rambipuji, Rambipuji",
+        "Kencong, Kencong",
+        "Wonojati, Kencong",
+        "Cakru, Kencong",
+        "Paseban, Kencong"
+      ],
+      "jarak_total_km": 62.96,
+      "estimasi_waktu_menit": 94.44,
+      "tanggal_pengiriman": "2025-06-19 01:49",
+      "status": "selesai",
+      "dikirim": true,
+      "kurir": {
+        "id_kurir": 4,
+        "nama_kurir": "Cristiano Messi",
+        "type_kendaraan": "mobil",
+        "kapasitas_kg": 200.0,
+        "status_kurir": "aktif"
+      }
+    },
+    {
+      "id_paket": "0020",
+      "items": [
+        "Rambipuji, Rambipuji",
+        "Kencong, Kencong",
+        "Wonojati, Kencong",
+        "Cakru, Kencong"
+      ],
+      "jarak_total_km": 62.96,
+      "estimasi_waktu_menit": 94.44,
+      "tanggal_pengiriman": "2025-06-19 01:50",
+      "status": "selesai",
+      "dikirim": true,
+      "kurir": {
+        "id_kurir": 30,
+        "nama_kurir": "Ronald",
+        "type_kendaraan": "mobil",
+        "kapasitas_kg": 200.0,
+        "status_kurir": "aktif"
+      }
+    },
+    {
+      "id_paket": "0022",
+      "items": [
+        "Rambipuji, Rambipuji",
+        "Kencong, Kencong",
+        "Wonojati, Kencong",
+        "Cakru, Kencong",
+        "Paseban, Kencong"
+      ],
+      "jarak_total_km": 62.96,
+      "estimasi_waktu_menit": 94.44,
+      "tanggal_pengiriman": "2025-06-19 01:51",
+      "status": "selesai",
+      "dikirim": true,
+      "kurir": {
+        "id_kurir": 28,
+        "nama_kurir": "Yudi",
+        "type_kendaraan": "mobil",
+        "kapasitas_kg": 200.0,
+        "status_kurir": "aktif"
+      }
+    },
+    {
+      "id_paket": "0023",
+      "items": [
+        "Rambipuji, Rambipuji",
+        "Kencong, Kencong",
+        "Wonojati, Kencong",
+        "Cakru, Kencong",
+        "Paseban, Kencong"
+      ],
+      "jarak_total_km": 62.96,
+      "estimasi_waktu_menit": 94.44,
+      "tanggal_pengiriman": "2025-06-19 02:01",
+      "status": "selesai",
+      "dikirim": true,
+      "kurir": {
+        "id_kurir": 27,
+        "nama_kurir": "Vina",
+        "type_kendaraan": "motor",
+        "kapasitas_kg": 60.0,
+        "status_kurir": "aktif"
+      }
+    },
+    {
+      "id_paket": "0025",
+      "items": [
+        "Rambipuji, Rambipuji",
+        "Kaliwates, Kaliwates",
+        "Sempusari, Kaliwates",
+        "Tegalgede, Kaliwates"
+      ],
+      "jarak_total_km": 17.81,
+      "estimasi_waktu_menit": 26.715,
+      "tanggal_pengiriman": "2025-06-19 02:09",
+      "status": "selesai",
+      "dikirim": true,
+      "kurir": {
+        "id_kurir": 24,
+        "nama_kurir": "Eko",
+        "type_kendaraan": "mobil",
+        "kapasitas_kg": 200.0,
+        "status_kurir": "aktif"
+      }
+    },
+    {
+      "id_paket": "0012",
+      "items": [
+        "Rambipuji, Rambipuji",
+        "Kencong, Kencong",
+        "Wonojati, Kencong"
+      ],
+      "jarak_total_km": 60.11,
+      "estimasi_waktu_menit": 90.165,
+      "tanggal_pengiriman": "2025-06-19 08:27",
+      "status": "dalam_pengiriman",
+      "dikirim": false,
+      "kurir": {
+        "id_kurir": 18,
+        "nama_kurir": "Surya",
+        "type_kendaraan": "motor",
+        "kapasitas_kg": 60.0,
+        "status_kurir": "aktif"
+      }
+    },
+    {
+      "id_paket": "0013",
+      "items": [
+        "Rambipuji, Rambipuji",
+        "Curahkalong, Rambipuji",
+        "Rowotamtu, Rambipuji"
+      ],
+      "jarak_total_km": 6.01,
+      "estimasi_waktu_menit": 9.015,
+      "tanggal_pengiriman": "2025-06-19 08:28",
+      "status": "dalam_pengiriman",
+      "dikirim": false,
+      "kurir": {
+        "id_kurir": 17,
+        "nama_kurir": "Rian",
+        "type_kendaraan": "mobil",
+        "kapasitas_kg": 200.0,
+        "status_kurir": "aktif"
+      }
+    }
+  ]
+}

@@ -1,0 +1,599 @@
+{
+  "kabupaten": "Jember",
+  "provinsi": "Jawa Timur",
+  "total_kecamatan": 31,
+  "total_kelurahan": 22,
+  "total_desa": 226,
+  "koordinat_pusat": {
+    "latitude": -8.184735,
+    "longitude": 113.668416
+  },
+  "data_desa": [
+    {
+      "kecamatan": "Kencong",
+      "desa": [
+        {
+          "nama": "Kencong",
+          "status": "kelurahan",
+          "latitude": -8.283333,
+          "longitude": 113.366667,
+          "kode_pos": "68167"
+        },
+        {
+          "nama": "Wonojati",
+          "status": "desa",
+          "latitude": -8.290000,
+          "longitude": 113.380000,
+          "kode_pos": "68167"
+        },
+        {
+          "nama": "Cakru",
+          "status": "desa",
+          "latitude": -8.275000,
+          "longitude": 113.355000,
+          "kode_pos": "68167"
+        },
+        {
+          "nama": "Paseban",
+          "status": "desa",
+          "latitude": -8.285000,
+          "longitude": 113.370000,
+          "kode_pos": "68167"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Gumukmas",
+      "desa": [
+        {
+          "nama": "Gumukmas",
+          "status": "desa",
+          "latitude": -8.250000,
+          "longitude": 113.433333,
+          "kode_pos": "68165"
+        },
+        {
+          "nama": "Karangrejo",
+          "status": "desa",
+          "latitude": -8.245000,
+          "longitude": 113.425000,
+          "kode_pos": "68165"
+        },
+        {
+          "nama": "Candijati",
+          "status": "desa",
+          "latitude": -8.255000,
+          "longitude": 113.440000,
+          "kode_pos": "68165"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Puger",
+      "desa": [
+        {
+          "nama": "Puger",
+          "status": "kelurahan",
+          "latitude": -8.366667,
+          "longitude": 113.466667,
+          "kode_pos": "68164"
+        },
+        {
+          "nama": "Plalangan",
+          "status": "desa",
+          "latitude": -8.375000,
+          "longitude": 113.475000,
+          "kode_pos": "68164"
+        },
+        {
+          "nama": "Kembiritan",
+          "status": "desa",
+          "latitude": -8.355000,
+          "longitude": 113.455000,
+          "kode_pos": "68164"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Wuluhan",
+      "desa": [
+        {
+          "nama": "Wuluhan",
+          "status": "desa",
+          "latitude": -8.333333,
+          "longitude": 113.416667,
+          "kode_pos": "68162"
+        },
+        {
+          "nama": "Lojejer",
+          "status": "desa",
+          "latitude": -8.325000,
+          "longitude": 113.405000,
+          "kode_pos": "68162"
+        },
+        {
+          "nama": "Tegalrejo",
+          "status": "desa",
+          "latitude": -8.340000,
+          "longitude": 113.425000,
+          "kode_pos": "68162"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Ambulu",
+      "desa": [
+        {
+          "nama": "Ambulu",
+          "status": "desa",
+          "latitude": -8.316667,
+          "longitude": 113.600000,
+          "kode_pos": "68172"
+        },
+        {
+          "nama": "Andongrejo",
+          "status": "desa",
+          "latitude": -8.310000,
+          "longitude": 113.590000,
+          "kode_pos": "68172"
+        },
+        {
+          "nama": "Sabrang",
+          "status": "desa",
+          "latitude": -8.325000,
+          "longitude": 113.610000,
+          "kode_pos": "68172"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Tempurejo",
+      "desa": [
+        {
+          "nama": "Tempurejo",
+          "status": "desa",
+          "latitude": -8.283333,
+          "longitude": 113.650000,
+          "kode_pos": "68173"
+        },
+        {
+          "nama": "Ampeldento",
+          "status": "desa",
+          "latitude": -8.275000,
+          "longitude": 113.640000,
+          "kode_pos": "68173"
+        },
+        {
+          "nama": "Sumberejo",
+          "status": "desa",
+          "latitude": -8.290000,
+          "longitude": 113.660000,
+          "kode_pos": "68173"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Silo",
+      "desa": [
+        {
+          "nama": "Silo",
+          "status": "desa",
+          "latitude": -8.250000,
+          "longitude": 113.716667,
+          "kode_pos": "68174"
+        },
+        {
+          "nama": "Garahan",
+          "status": "desa",
+          "latitude": -8.245000,
+          "longitude": 113.705000,
+          "kode_pos": "68174"
+        },
+        {
+          "nama": "Sidomulyo",
+          "status": "desa",
+          "latitude": -8.255000,
+          "longitude": 113.725000,
+          "kode_pos": "68174"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Mayang",
+      "desa": [
+        {
+          "nama": "Mayang",
+          "status": "desa",
+          "latitude": -8.216667,
+          "longitude": 113.750000,
+          "kode_pos": "68175"
+        },
+        {
+          "nama": "Tegalwaru",
+          "status": "desa",
+          "latitude": -8.210000,
+          "longitude": 113.740000,
+          "kode_pos": "68175"
+        },
+        {
+          "nama": "Mumbulsari",
+          "status": "desa",
+          "latitude": -8.225000,
+          "longitude": 113.760000,
+          "kode_pos": "68175"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Jember",
+      "desa": [
+        {
+          "nama": "Jember Lor",
+          "status": "kelurahan",
+          "latitude": -8.166667,
+          "longitude": 113.700000,
+          "kode_pos": "68111"
+        },
+        {
+          "nama": "Kaliwates",
+          "status": "kelurahan",
+          "latitude": -8.175000,
+          "longitude": 113.695000,
+          "kode_pos": "68131"
+        },
+        {
+          "nama": "Kepatihan",
+          "status": "kelurahan",
+          "latitude": -8.170000,
+          "longitude": 113.690000,
+          "kode_pos": "68111"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Kaliwates",
+      "desa": [
+        {
+          "nama": "Kaliwates",
+          "status": "kelurahan",
+          "latitude": -8.175000,
+          "longitude": 113.695000,
+          "kode_pos": "68131"
+        },
+        {
+          "nama": "Sempusari",
+          "status": "desa",
+          "latitude": -8.180000,
+          "longitude": 113.705000,
+          "kode_pos": "68131"
+        },
+        {
+          "nama": "Tegalgede",
+          "status": "desa",
+          "latitude": -8.185000,
+          "longitude": 113.685000,
+          "kode_pos": "68131"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Sumbersari",
+      "desa": [
+        {
+          "nama": "Sumbersari",
+          "status": "kelurahan",
+          "latitude": -8.150000,
+          "longitude": 113.716667,
+          "kode_pos": "68121"
+        },
+        {
+          "nama": "Antirogo",
+          "status": "desa",
+          "latitude": -8.145000,
+          "longitude": 113.705000,
+          "kode_pos": "68121"
+        },
+        {
+          "nama": "Wirolegi",
+          "status": "desa",
+          "latitude": -8.155000,
+          "longitude": 113.725000,
+          "kode_pos": "68121"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Arjasa",
+      "desa": [
+        {
+          "nama": "Arjasa",
+          "status": "desa",
+          "latitude": -8.183333,
+          "longitude": 113.783333,
+          "kode_pos": "68191"
+        },
+        {
+          "nama": "Banjarsengon",
+          "status": "desa",
+          "latitude": -8.175000,
+          "longitude": 113.775000,
+          "kode_pos": "68191"
+        },
+        {
+          "nama": "Kemuninglor",
+          "status": "desa",
+          "latitude": -8.190000,
+          "longitude": 113.790000,
+          "kode_pos": "68191"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Pakusari",
+      "desa": [
+        {
+          "nama": "Pakusari",
+          "status": "desa",
+          "latitude": -8.150000,
+          "longitude": 113.800000,
+          "kode_pos": "68176"
+        },
+        {
+          "nama": "Sukoreno",
+          "status": "desa",
+          "latitude": -8.145000,
+          "longitude": 113.790000,
+          "kode_pos": "68176"
+        },
+        {
+          "nama": "Sumberpakem",
+          "status": "desa",
+          "latitude": -8.155000,
+          "longitude": 113.810000,
+          "kode_pos": "68176"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Kalisat",
+      "desa": [
+        {
+          "nama": "Kalisat",
+          "status": "desa",
+          "latitude": -8.083333,
+          "longitude": 113.833333,
+          "kode_pos": "68193"
+        },
+        {
+          "nama": "Jambean",
+          "status": "desa",
+          "latitude": -8.075000,
+          "longitude": 113.825000,
+          "kode_pos": "68193"
+        },
+        {
+          "nama": "Patemon",
+          "status": "desa",
+          "latitude": -8.090000,
+          "longitude": 113.840000,
+          "kode_pos": "68193"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Ledokombo",
+      "desa": [
+        {
+          "nama": "Ledokombo",
+          "status": "desa",
+          "latitude": -8.050000,
+          "longitude": 113.800000,
+          "kode_pos": "68195"
+        },
+        {
+          "nama": "Slateng",
+          "status": "desa",
+          "latitude": -8.045000,
+          "longitude": 113.790000,
+          "kode_pos": "68195"
+        },
+        {
+          "nama": "Sukogidri",
+          "status": "desa",
+          "latitude": -8.055000,
+          "longitude": 113.810000,
+          "kode_pos": "68195"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Rambipuji",
+      "desa": [
+        {
+          "nama": "Rambipuji",
+          "status": "desa",
+          "latitude": -8.100000,
+          "longitude": 113.766667,
+          "kode_pos": "68152"
+        },
+        {
+          "nama": "Curahkalong",
+          "status": "desa",
+          "latitude": -8.095000,
+          "longitude": 113.755000,
+          "kode_pos": "68152"
+        },
+        {
+          "nama": "Rowotamtu",
+          "status": "desa",
+          "latitude": -8.105000,
+          "longitude": 113.775000,
+          "kode_pos": "68152"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Panti",
+      "desa": [
+        {
+          "nama": "Panti",
+          "status": "desa",
+          "latitude": -8.066667,
+          "longitude": 113.733333,
+          "kode_pos": "68153"
+        },
+        {
+          "nama": "Kemiri",
+          "status": "desa",
+          "latitude": -8.060000,
+          "longitude": 113.725000,
+          "kode_pos": "68153"
+        },
+        {
+          "nama": "Serut",
+          "status": "desa",
+          "latitude": -8.075000,
+          "longitude": 113.740000,
+          "kode_pos": "68153"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Sukorambi",
+      "desa": [
+        {
+          "nama": "Sukorambi",
+          "status": "desa",
+          "latitude": -8.116667,
+          "longitude": 113.666667,
+          "kode_pos": "68151"
+        },
+        {
+          "nama": "Karangsari",
+          "status": "desa",
+          "latitude": -8.110000,
+          "longitude": 113.655000,
+          "kode_pos": "68151"
+        },
+        {
+          "nama": "Sukorejo",
+          "status": "desa",
+          "latitude": -8.125000,
+          "longitude": 113.675000,
+          "kode_pos": "68151"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Ajung",
+      "desa": [
+        {
+          "nama": "Ajung",
+          "status": "desa",
+          "latitude": -8.083333,
+          "longitude": 113.616667,
+          "kode_pos": "68154"
+        },
+        {
+          "nama": "Rowo Indah",
+          "status": "desa",
+          "latitude": -8.075000,
+          "longitude": 113.605000,
+          "kode_pos": "68154"
+        },
+        {
+          "nama": "Klungkung",
+          "status": "desa",
+          "latitude": -8.090000,
+          "longitude": 113.625000,
+          "kode_pos": "68154"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Tempeh",
+      "desa": [
+        {
+          "nama": "Tempeh",
+          "status": "desa",
+          "latitude": -8.050000,
+          "longitude": 113.566667,
+          "kode_pos": "68155"
+        },
+        {
+          "nama": "Sumberdanti",
+          "status": "desa",
+          "latitude": -8.045000,
+          "longitude": 113.555000,
+          "kode_pos": "68155"
+        },
+        {
+          "nama": "Banjarsari",
+          "status": "desa",
+          "latitude": -8.055000,
+          "longitude": 113.575000,
+          "kode_pos": "68155"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Sumberjambe",
+      "desa": [
+        {
+          "nama": "Sumberjambe",
+          "status": "desa",
+          "latitude": -8.016667,
+          "longitude": 113.583333,
+          "kode_pos": "68156"
+        },
+        {
+          "nama": "Paleran",
+          "status": "desa",
+          "latitude": -8.010000,
+          "longitude": 113.575000,
+          "kode_pos": "68156"
+        },
+        {
+          "nama": "Gugut",
+          "status": "desa",
+          "latitude": -8.025000,
+          "longitude": 113.590000,
+          "kode_pos": "68156"
+        }
+      ]
+    },
+    {
+      "kecamatan": "Mumbulsari",
+      "desa": [
+        {
+          "nama": "Mumbulsari",
+          "status": "desa",
+          "latitude": -8.000000,
+          "longitude": 113.600000,
+          "kode_pos": "68196"
+        },
+        {
+          "nama": "Karangtengah",
+          "status": "desa",
+          "latitude": -7.995000,
+          "longitude": 113.590000,
+          "kode_pos": "68196"
+        },
+        {
+          "nama": "Sepanjang",
+          "status": "desa",
+          "latitude": -8.005000,
+          "longitude": 113.610000,
+          "kode_pos": "68196"
+        }
+      ]
+    }
+  ],
+  "catatan": {
+    "sumber_data": "Data ini merupakan kompilasi dari berbagai sumber dan koordinat yang disajikan adalah perkiraan berdasarkan lokasi geografis kecamatan",
+    "total_data_lengkap": "Kabupaten Jember memiliki 31 kecamatan dengan total 226 desa dan 22 kelurahan. Data di atas merupakan contoh sebagian desa dengan koordinat GPS perkiraan",
+    "format_koordinat": "Koordinat dalam format decimal degrees (DD)",
+    "proyeksi": "WGS84",
+    "akurasi": "Koordinat ini merupakan perkiraan dan mungkin tidak tepat 100%. Untuk keperluan yang membutuhkan akurasi tinggi, disarankan melakukan survei lapangan atau menggunakan data resmi dari BPS/BIG"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "paket 1": {
+        "id_paket": "PKT001",
+        "items": [
+            {
+                "id_barang": "BRG001",
+                "alamat_pengiriman": "Arjasa, Arjasa"
+            },
+            {
+                "id_barang": "BRG002",
+                "alamat_pengiriman": "Jember Lor, Jember"
+            }
+        ],
+        "total_berat": 40,
+        "status": "belum dikirim"
+    }
+
+}
